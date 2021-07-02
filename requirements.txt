@@ -1,0 +1,12 @@
+Click
+dlib
+face-recognition
+face-recognition-models
+Flask
+Flask-Script
+itsdangerous
+Jinja2
+MarkupSafe
+numpy
+Pillow
+Werkzeug
